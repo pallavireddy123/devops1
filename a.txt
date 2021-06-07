@@ -1,6 +1,13 @@
 learning git
 
 
+<<<<<<< HEAD
 master branch
 
 using akhila
+learning branching
+
+
+
+using b1 branch to learn
+
